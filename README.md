@@ -1,16 +1,13 @@
-## Hi there 👋
-
-# 👋 Hi there, I'm Zach  
+## Hi there 👋, I'm Zach  
 
 I'm a Software Engineer based in Melbourne, with a passion for coding and AI technologies.  
-
 - 🔧 Frontend: React, TypeScript, GraphQL, Next.js  
 - ☁️ Backend & Cloud: Node.js, REST APIs, AWS, Docker, Serverless  
 - 🤖 Exploring AI: building personal projects  
 - 🎨 UI/UX: Accessibility (a11y), WCAG standards, responsive design  
 - 🏋️‍♂️ Outside of code: fitness, sim racing
 
-✨ I believe great software is not for machines to run, but for people to connect with.
+✨ Writing code is not only for machines to run, but for people to connect.
 <!--
 **zachxdc/zachxdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
